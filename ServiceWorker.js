@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Tully360-0.1";
 const contentToCache = [
     "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
-    "Build/950b0388c18dd6352d24ca62ffe6cedb.framework.js",
-    "Build/389cedc4c2526190e19e659f0fb72809.data",
-    "Build/d5b9f85d3c92d9a5b6d38ebe7ae45da1.wasm",
+    "Build/8fbfef998962cb28ce7dff134a12a818.framework.js",
+    "Build/549ef78259209a0c4e0526d9287ace2e.data",
+    "Build/148a8585beaf70087a25db2609bf8a1e.wasm",
     "TemplateData/style.css"
 
 ];
